@@ -34,6 +34,8 @@ public class Demo {
 		MethodkiClass m = new MethodkiClass(); //Method ki class ka naya object
 		m.YeMethodHai(); // Yaha Method ko call kiya hai
 		
+		driver.close();
+		
 		
 		
 		
