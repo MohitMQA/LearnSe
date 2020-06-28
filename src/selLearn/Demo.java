@@ -35,6 +35,7 @@ public class Demo {
 		m.YeMethodHai(); // Yaha Method ko call kiya hai
 		
 		driver.close();
+		driver.quit();
 		
 		
 		
