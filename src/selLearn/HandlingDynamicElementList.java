@@ -27,6 +27,7 @@ public class HandlingDynamicElementList {
 		driver.findElement(By.xpath("//div[@id='glsctl00_mainContent_ddl_destinationStation1_CTNR'] //a[@value='BLR']")).click();
 		
 		//input[@id='ctl00_mainContent_ddl_originStation1_CTXT']
+		driver.quit();
 
 	}
 
