@@ -36,6 +36,7 @@ public class Demo {
 		
 		driver.close();
 		driver.quit();
+		driver.quit();
 		
 		
 		
